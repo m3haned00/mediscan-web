@@ -1,0 +1,5 @@
+{
+  "name": "MediScan",
+  "description": "Advanced healthcare interaction app for drug management and safety analysis.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
